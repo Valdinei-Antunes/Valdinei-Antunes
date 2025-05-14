@@ -3,9 +3,10 @@
 <a href="https://www.linkedin.com/in/valdinei-antunes-2a881b280/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://github.com/Valdinei-Antunes" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="valdineifilho21@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valdinei-Antunes&show_icons=true&theme=dracula)]
 
