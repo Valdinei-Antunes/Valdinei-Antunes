@@ -39,6 +39,6 @@ Sempre em aprendizado contínuo, focado em desenvolver habilidades que impulsion
 
 💡 Curioso por novas tecnologias e boas práticas de desenvolvimento.  
 📚 Sempre estudando e buscando participar de projetos e desafios para melhorar minhas habilidades.  
-🎯 Meu foco atual está em **Java, Spring Boot, React e SQL**.
+🎯 Meu foco atual está em **Java, Spring Boot e SQL**.
 
 
